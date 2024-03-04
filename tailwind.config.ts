@@ -7,11 +7,27 @@ const config: Config = {
     "./app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
+    colors: {
+      red: "#F94F4F",
+      "red-hover": "#FF9393",
+      gray: "#191921",
+      "gray-hover": "#434356",
+      white: "#ffffff",
+      "text-black": "#000000",
+    },
+    fontSize: {
+      sm: ["16px", "19px"],
+      base: ["18px", "32px"],
+      lg: ["20px", "32px"],
+      xl: ["56px", "64px"],
+      "2xl": ["80px", "88px"],
+    },
     extend: {
-      backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+      spacing: {
+        "5.5": "22px",
+        "6.25": "25px",
+        "6.5": "26px",
+        "8.75": "35px",
       },
     },
   },
