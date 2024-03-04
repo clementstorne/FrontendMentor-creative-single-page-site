@@ -30,35 +30,27 @@ Users should be able to:
 
 ### Links
 
-- [GitHub Repository](https://github.com/clementstorne/FrontendMentor-tic-tac-toe-game)
+- [GitHub Repository](https://github.com/clementstorne/FrontendMentor-creative-single-page-site)
 
 ## My process
 
 ### Built with
 
-- React
+- Next.js
 - Tailwind CSS
-- Redux
 
 ### What I learned
 
-One of the key learnings from this project was the implementation of the Minimax algorithm for the computer's moves in the Tic Tac Toe game. The Minimax algorithm is a decision-making algorithm used in two-player games, and it helped me create a more strategic and competitive computer opponent.
-
-The Minimax algorithm works by recursively evaluating possible moves and their outcomes, assigning a score to each move based on the assumption that both players will make optimal moves. This allows the computer to make intelligent decisions and choose the move that minimizes the maximum possible loss (hence the name Minimax).
-
-Implementing the Minimax algorithm in the context of a Tic Tac Toe game provided insights into recursive algorithms, game tree structures, and how to apply strategic thinking to artificial intelligence in gaming scenarios. This experience was valuable in enhancing my understanding of algorithmic decision-making processes.
-
 ### Continued development
-
-I plan to continue focusing on refining my React and Redux skills, exploring more advanced state management techniques, and further improving my responsiveness implementation.
 
 ### Useful resources
 
-- [React Documentation](https://reactjs.org/docs/getting-started.html) - The official documentation is always a valuable resource for learning and reference.
+- [Next.js Documentation](https://nextjs.org/docs/getting-started/installation) - The official documentation is always a valuable resource for learning and reference.
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs) - The Tailwind CSS documentation provides comprehensive guidance on using the utility-first CSS framework.
 
 ## Author
 
+- Portfolio - [Clément Storne](https://clementstorne.dev/)
 - Github - [Clément Storne](https://github.com/clementstorne)
 - Frontend Mentor - [@clementstorne](https://www.frontendmentor.io/profile/clementstorne)
 - Twitter - [@clementstorne](https://twitter.com/clementstorne)
